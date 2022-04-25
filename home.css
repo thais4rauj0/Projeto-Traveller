@@ -44,7 +44,10 @@ body {
     width: 100%;
     height: 100%;
 }
-
+.teste{
+    background-color: #000;
+    width: 100%;
+}
 .submenu {
     width: 100%;
     height: 50px;
@@ -225,8 +228,9 @@ nav ul li a:hover {
 }
 
 .carrossel {
+    width: 90%;
     height: 400px;
-    margin: 5%;
+    margin-top: 10%;
 }
 
 .titulo-slider {
